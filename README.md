@@ -20,3 +20,18 @@ Record ID: An id used to identify the participant of the survey<br>
 Reason for ceasing employment: The reason why the person's employment ended<br>
 LengthofServiceOverall. Overall Length of Service at Institute (in years): The length of the person's employment (in years)<br>
 Let's start by reading the datasets into pandas and exploring them.<br>
+
+In this guided project, I experienced that in order to extract any meaningful insights from our data, I had to perform many data cleaning tasks. In order to create one visualization (and not even the final one), I completed the following tasks:
+
+1)Explored the data and figured out how to prepare it for analysis<br>
+2)Corrected some of the missing values<br>
+3)Dropped any data not needed for our analysis<br>
+4)Renamed our columns<br>
+5)Verified the quality of our data<br>
+6)Created a new institute_service column<br>
+7)Cleaned the Contributing Factors columns<br>
+8)Created a new column indicating if an employee resigned because they were dissatisfied in some way<br>
+9)Combined the data<br>
+10)Cleaned the institute_service column<br>
+11)Handled the missing values in the dissatisfied column<br>
+12)Aggregated the data<br>
